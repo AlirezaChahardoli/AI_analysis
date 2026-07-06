@@ -1,0 +1,10 @@
+date,task,model,input_tokens,output_tokens,calls
+2026-06-01,customer_support_reply,gpt-4o,800,120,500
+2026-06-02,customer_support_reply,gpt-4o,750,100,300
+2026-06-01,summarize_doc,claude-opus-4-1,6000,400,50
+2026-06-02,summarize_doc,claude-opus-4-1,5500,350,40
+2026-06-01,code_review,claude-sonnet-4-5,3000,800,100
+2026-06-01,simple_faq_bot,gpt-4-turbo,300,60,2000
+2026-06-02,simple_faq_bot,gpt-4-turbo,280,55,1800
+2026-06-01,data_extraction,gpt-4o,10000,80,200
+2026-06-02,data_extraction,gpt-4o,9500,75,180

@@ -369,4 +369,4 @@ with tab_share:
     st.markdown("A short, plain-English summary — copy this straight into an email or Slack message.")
     summary = generate_share_summary(by_task, flags_df, total_spend, total_savings, monthly)
     st.text_area("Summary", summary, height=140, label_visibility="collapsed")
-    st.caption("Tip: pair this with the CSV from the Opportunities tab when you send it along.")load a CSV to get started.")
+    
